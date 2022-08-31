@@ -1,4 +1,4 @@
-class SchemaKeys:
+class Schema_Keys:
     TABLES = "Tables"
     DATABASE = "database_name"
     NAME = "name"
